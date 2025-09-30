@@ -11,7 +11,7 @@
 }
 
 #home {
-  background-image: url("/imgs/circle-scatter-haikei.svg");
+  background-image: url("imgs/circle-scatter-haikei.svg");
   background-position: center;
   background-size: cover;
 }
